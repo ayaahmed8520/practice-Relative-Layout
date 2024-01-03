@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">test_linearLayout</string>
+    <string name="fullName">الاسم الكامل</string>
+    <string name="firstName">الاسم الأول</string>
+    <string name="male">ذكر</string>
+    <string name="female">أنثي</string>
+    <string name="password">كلمة المرور</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="register">تسجيل</string>
+    <string name="userImage">صورة المستخدم</string>
+</resources>

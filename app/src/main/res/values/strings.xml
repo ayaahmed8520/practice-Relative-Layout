@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">test_linearLayout</string>
+    <string name="fullName">Full Name</string>
+    <string name="firstName">User Name</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="userImage">User Image</string>
+</resources>
